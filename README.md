@@ -17,7 +17,7 @@ are supported and installed on your system.
 perl: warning: Falling back to the standard locale ("C").
 locale: Cannot set LC_**** to default locale: No such file or directory
 
-edit: This problem occured while usingusing SSH from another computer
+## **edit**: This problem occured while using SSH from another computer
 
 This is a fault on the SSH client.
 
