@@ -1,5 +1,9 @@
 # toolkit
 Random selection of things I found useful 
+## index
+
+1. [rpiLocaleFix](https://github.com/gntouts/toolkit/blob/master/README.md#rpilocalefixsh)
+
 ## rpiLocaleFix.sh
 
 How to fix perl warning "setting locale failed" in Raspbian.
