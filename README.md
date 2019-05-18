@@ -22,5 +22,5 @@ locale: Cannot set LC_**** to default locale: No such file or directory
 This is a fault on the SSH client.
 
 To fix this, edit /etc/ssh/ssh_config on the SSH client (your computer) and remove the line
-SendEnv LANG LC_*
-[source: bredman from RPi Forum](https://www.raspberrypi.org/forums/viewtopic.php?f=50&t=11870
+`SendEnv LANG LC_*`
+[source: bredman from RPi Forum](https://www.raspberrypi.org/forums/viewtopic.php?f=50&t=11870)
