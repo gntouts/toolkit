@@ -1,6 +1,6 @@
 # Random stuf that solved random problems
 ## index
-1. [rpiLocaleFix](https://github.com/gntouts/toolkit/blob/master/README.md#rpilocalefixsh)
+1. [rpiLocaleFix](https://gntouts.github.io/toolkit/#rpilocalefixsh)
 2. [RaspiCast](https://github.com/gntouts/toolkit/blob/master/README.md#raspicast)<br>
 3. [Raspotify](https://github.com/gntouts/toolkit/blob/master/README.md#raspotify)<br>
 4. [Headless AnyDesk Install](https://github.com/gntouts/toolkit/blob/master/README.md#headless-anydesk)
