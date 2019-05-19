@@ -4,7 +4,7 @@ Random selection of things I found useful
 
 1. [rpiLocaleFix](https://github.com/gntouts/toolkit/blob/master/README.md#rpilocalefixsh)
 2. [RaspiCast](https://github.com/gntouts/toolkit/blob/master/README.md#raspicast)<br>
-3. [Raspotify]((https://github.com/gntouts/toolkit/blob/master/README.md#raspotify)<br>
+3. [Raspotify](https://github.com/gntouts/toolkit/blob/master/README.md#raspotify)<br>
 
 ## rpiLocaleFix.sh
 
