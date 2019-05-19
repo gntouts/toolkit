@@ -30,7 +30,8 @@ To fix this, edit /etc/ssh/ssh_config on the SSH client (your computer) and remo
 SendEnv LANG LC_*
 ```
 <br>
-source: [bredman from RPi Forum](https://www.raspberrypi.org/forums/viewtopic.php?f=50&t=11870)
+source:<br>
+[bredman](https://www.raspberrypi.org/forums/viewtopic.php?f=50&t=11870)
 
 
 
