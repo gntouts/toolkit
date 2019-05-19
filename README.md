@@ -36,4 +36,14 @@ Just follow the [article](https://thepi.io/how-to-use-your-raspberry-pi-as-a-chr
 
 ## Raspotify
 
-Use this awesome [Raspotify](https://github.com/dtcooper/raspotify) Client! 
+Use this awesome [Raspotify](https://github.com/dtcooper/raspotify) Client! <br>
+
+Getting started: <br>
+Open a terminal and install Raspotify with the following command:
+`curl -sL https://dtcooper.github.io/raspotify/install.sh | sh`
+<br> That's it, you will now discover your Raspberry as an available speaker.<br>
+To change the name, or modify any other settings use:<br>
+`sudo nano /etc/default/raspotify`<br>
+Restart Raspotify:<br>
+`sudo systemctl restart raspotify`<br>
+Enjoy your WiFi speaker and consider to donate to [dtcooper](https://github.com/dtcooper/raspotify#donations)!!!
