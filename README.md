@@ -5,7 +5,7 @@ Random selection of things I found useful
 1. [rpiLocaleFix](https://github.com/gntouts/toolkit/blob/master/README.md#rpilocalefixsh)
 2. [RaspiCast](https://github.com/gntouts/toolkit/blob/master/README.md#raspicast)<br>
 3. [Raspotify](https://github.com/gntouts/toolkit/blob/master/README.md#raspotify)<br>
-4. [Headless AnyDesk Install](https://anydesk.com/en/downloads/raspberry-pi)
+4. [Headless AnyDesk Install](https://github.com/gntouts/toolkit/blob/master/README.md#headless-anydesk)
 
 ## rpiLocaleFix.sh
 
@@ -50,7 +50,25 @@ Restart Raspotify:<br>
 Enjoy your WiFi speaker and consider to donate to [dtcooper](https://github.com/dtcooper/raspotify#donations)!!!
 <br>
 ## Headless AnyDesk
-testse
+Connect to your RPi via SSH.<br>
+`ssh username@your.RPi.IP`
+Go to your Downloads folder and download AnyDesk for RPi via: <br>
+`wget https://download.anydesk.com/rpi/anydesk_2.9.4-1_armhf.deb?_ga=2.247598279.1909187070.1558275522-1898915190.1558275522`
+<br>Install AnyDesk and its dependencies with:
+```
+sudo dpkg -i anydesk_*.*.*-*_armhf.deb
+sudo apt-get -f install
+sudo dpkg -i anydesk_*.*.*-*_armhf.deb
+```
+<br>
+Once the installation is complete, restart the SSH connection using:
+`exit`
+`ssh -X username@your.RPi.IP`
+<br> Start AnyDesk using:
+`anydesk`
+Enable unattended access, configure your password and change Interactive Access to Always Allow. 
+<br>
+Enjoy!
 
 <br><br><br>
 #### TODO<br>
