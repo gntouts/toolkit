@@ -48,5 +48,5 @@ Restart Raspotify:<br>
 `sudo systemctl restart raspotify`<br>
 Enjoy your WiFi speaker and consider to donate to [dtcooper](https://github.com/dtcooper/raspotify#donations)!!!
 <br><br><br>
-####TODO
--[custom raspbian image](https://medium.com/platformer-blog/creating-a-custom-raspbian-os-image-for-production-3fcb43ff3630)
+####TODO<br>
+- [custom raspbian image](https://medium.com/platformer-blog/creating-a-custom-raspbian-os-image-for-production-3fcb43ff3630)
