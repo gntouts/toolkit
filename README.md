@@ -26,8 +26,11 @@ locale: Cannot set LC_**** to default locale: No such file or directory
 This is a fault on the SSH client.
 
 To fix this, edit /etc/ssh/ssh_config on the SSH client (your computer) and remove the line<br>
-`SendEnv LANG LC_*`<br>
-[source: bredman from RPi Forum](https://www.raspberrypi.org/forums/viewtopic.php?f=50&t=11870)
+```
+SendEnv LANG LC_*
+```
+<br>
+source: [bredman from RPi Forum](https://www.raspberrypi.org/forums/viewtopic.php?f=50&t=11870)
 
 
 
@@ -41,17 +44,25 @@ Use this awesome [Raspotify](https://github.com/dtcooper/raspotify) Client! <br>
 
 Getting started: <br>
 Open a terminal and install Raspotify with the following command:
-`curl -sL https://dtcooper.github.io/raspotify/install.sh | sh`
+```
+curl -sL https://dtcooper.github.io/raspotify/install.sh | sh
+```
 <br> That's it, you will now discover your Raspberry as an available speaker.<br>
 To change the name, or modify any other settings use:<br>
-`sudo nano /etc/default/raspotify`<br>
+```
+sudo nano /etc/default/raspotify
+```
+<br>
 Restart Raspotify:<br>
-`sudo systemctl restart raspotify`<br>
+```
+sudo systemctl restart raspotify
+```
+<br>
 Enjoy your WiFi speaker and consider to donate to [dtcooper](https://github.com/dtcooper/raspotify#donations)!!!
 <br>
 ## Headless AnyDesk
 Connect to your RPi via SSH.<br>
-`ssh username@your.RPi.IP`
+`ssh username@your.RPi.IP`<br>
 Go to your Downloads folder and download AnyDesk for RPi via: <br>
 `wget https://download.anydesk.com/rpi/anydesk_2.9.4-1_armhf.deb?_ga=2.247598279.1909187070.1558275522-1898915190.1558275522`
 <br>Install AnyDesk and its dependencies with:
