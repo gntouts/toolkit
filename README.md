@@ -4,6 +4,7 @@ Random selection of things I found useful
 
 1. [rpiLocaleFix](https://github.com/gntouts/toolkit/blob/master/README.md#rpilocalefixsh)
 2. [RaspiCast](https://github.com/gntouts/toolkit/blob/master/README.md#raspicast)<br>
+3. [Raspotify]((https://github.com/gntouts/toolkit/blob/master/README.md#raspotify)<br>
 
 ## rpiLocaleFix.sh
 
@@ -32,3 +33,7 @@ To fix this, edit /etc/ssh/ssh_config on the SSH client (your computer) and remo
 ## RaspiCast
 
 Just follow the [article](https://thepi.io/how-to-use-your-raspberry-pi-as-a-chromecast-alternative/) and download the RaspiCast App for easy Youtube Playback.
+
+## Raspotify
+
+Use this awesome [Raspotify](https://github.com/dtcooper/raspotify) Client! 
