@@ -61,9 +61,14 @@ Enjoy your WiFi speaker and consider to donate to [dtcooper](https://github.com/
 <br>
 ## Headless AnyDesk
 Connect to your RPi via SSH.<br>
-`ssh username@your.RPi.IP`<br>
+```
+ssh username@your.RPi.IP
+```
+<br>
 Go to your Downloads folder and download AnyDesk for RPi via: <br>
-`wget https://download.anydesk.com/rpi/anydesk_2.9.4-1_armhf.deb?_ga=2.247598279.1909187070.1558275522-1898915190.1558275522`
+```
+wget https://download.anydesk.com/rpi/anydesk_2.9.4-1_armhf.deb?_ga=2.247598279.1909187070.1558275522-1898915190.1558275522
+```
 <br>Install AnyDesk and its dependencies with:
 ```
 sudo dpkg -i anydesk_*.*.*-*_armhf.deb
@@ -72,10 +77,14 @@ sudo dpkg -i anydesk_*.*.*-*_armhf.deb
 ```
 <br>
 Once the installation is complete, restart the SSH connection using:
-`exit`
-`ssh -X username@your.RPi.IP`
+```
+exit
+ssh -X username@your.RPi.IP
+```
 <br> Start AnyDesk using:
-`anydesk`
+```
+anydesk
+```
 Enable unattended access, configure your password and change Interactive Access to Always Allow. 
 <br>
 Enjoy!
