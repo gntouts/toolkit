@@ -52,7 +52,7 @@ To change the name, or modify any other settings use:<br>
 sudo nano /etc/default/raspotify
 ```
 <br>
-Restart Raspotify:<br>
+Restart Raspotify:
 ```
 sudo systemctl restart raspotify
 ```
