@@ -92,3 +92,4 @@ Enjoy!
 <br><br><br>
 #### TODO<br>
 - [custom raspbian image](https://medium.com/platformer-blog/creating-a-custom-raspbian-os-image-for-production-3fcb43ff3630)
+-[https://devhints.io/bash](Bash Scripts Cheatsheet)
