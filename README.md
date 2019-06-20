@@ -6,7 +6,7 @@ Random selection of things I found useful
 2. [RaspiCast](https://github.com/gntouts/toolkit/blob/master/README.md#raspicast)<br>
 3. [Raspotify](https://github.com/gntouts/toolkit/blob/master/README.md#raspotify)<br>
 4. [Headless AnyDesk Install](https://github.com/gntouts/toolkit/blob/master/README.md#headless-anydesk)
-5. [Disable specific pages in Chromium](https://github.com/gntouts/toolkit/blob/master/README.md#disable-pages)
+5. [Disable specific website in Chromium](https://github.com/gntouts/toolkit/blob/master/README.md#disable-website)
 
 ## rpiLocaleFix.sh
 
@@ -90,7 +90,7 @@ Enable unattended access, configure your password and change Interactive Access 
 <br>
 Enjoy!
 <br><br>
-## Disable Pages
+## Disable Website
 We all hate a site or two. We hate finding it in our Google search results, we hate visiting it by mistake, we hate to be reminded that it exists. Thanks to Chrome extensions it is very easy to block that site completely.<br>
 - **Step 1: Block the site in Google Search Results**
   - Install the [uBlacklist](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe "uBlacklist") extension.
