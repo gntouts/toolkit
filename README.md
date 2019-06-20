@@ -92,8 +92,8 @@ Enjoy!
 <br><br>
 ## Disable Pages
 We all hate a site or two. We hate finding it in our Google search results, we hate visiting it by mistake, we hate to be reminded that it exists. Thanks to Chrome extensions it is very easy to block that site completely.<br>
-**Step 1: Block Google Search Results**
-Install the [uBlacklist](https://chrome.google.com/webstore/search/ublacklist "uBlacklist") extension.
+-**Step 1: Block Google Search Results**
+--Install the [uBlacklist](https://chrome.google.com/webstore/search/ublacklist "uBlacklist") extension.
 <br><br><br>
 #### TODO<br>
 
