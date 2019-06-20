@@ -110,7 +110,7 @@ We all hate a site or two. We hate finding it in our Google search results, we h
   - Install the [Block Site](https://chrome.google.com/webstore/detail/block-site-website-blocke/eiimnmioipafcokbfikbljfdeojpcgbh "Block Site - Website Blocker for Chrome™") extension.
   - Right-click the extension icon and go to **Options**. Click **Block by word** and add the wordpattern you want to block, for example:
   ```
-  pinterest.c*
+  pinterest.c
   ```
   
     ####      That's it!
