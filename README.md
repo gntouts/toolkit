@@ -33,6 +33,7 @@ SendEnv LANG LC_*
 
 Source: [bredman](https://www.raspberrypi.org/forums/viewtopic.php?f=50&t=11870)
 
+###### [Go to Index](https://github.com/gntouts/toolkit/blob/master/README.md#index)
 
 ## RaspiCast
 
@@ -61,6 +62,9 @@ sudo systemctl restart raspotify
 
 Enjoy your WiFi speaker and consider to donate to [dtcooper](https://github.com/dtcooper/raspotify#donations)!!!
 <br>
+
+###### [Go to Index](https://github.com/gntouts/toolkit/blob/master/README.md#index)
+
 ## Headless AnyDesk
 Connect to your RPi via SSH.<br>
 ```
@@ -90,6 +94,9 @@ Enable unattended access, configure your password and change Interactive Access 
 <br>
 Enjoy!
 <br><br>
+
+###### [Go to Index](https://github.com/gntouts/toolkit/blob/master/README.md#index)
+
 ## Disable Website
 We all hate a site or two. We hate finding it in our Google search results, we hate visiting it by mistake, we hate to be reminded that it exists. Thanks to Chrome extensions it is very easy to block that site completely.<br>
 - **Step 1: Block the site in Google Search Results**
@@ -108,6 +115,10 @@ We all hate a site or two. We hate finding it in our Google search results, we h
   
     ####      That's it!
 <br><br><br>
+
+###### [Go to Index](https://github.com/gntouts/toolkit/blob/master/README.md#index)
+
 #### TODO<br>
 
 -[https://devhints.io/bash](Bash Scripts Cheatsheet)
+###### [Go to Index](https://github.com/gntouts/toolkit/blob/master/README.md#index)
