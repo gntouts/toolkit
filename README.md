@@ -89,10 +89,12 @@ anydesk
 Enable unattended access, configure your password and change Interactive Access to Always Allow. 
 <br>
 Enjoy!
-<br>
+<br><br>
 ## Disable Pages
-We all hate a site or two. We hate finding it in our Google search results, we hate visiting it by mistake, we hate to be reminded that it exists. Thanks to Chrome extensions it is very easy to block that site completely.
+We all hate a site or two. We hate finding it in our Google search results, we hate visiting it by mistake, we hate to be reminded that it exists. Thanks to Chrome extensions it is very easy to block that site completely.<br>
+**Step 1: Block Google Search Results**
+Install the [uBlacklist](https://chrome.google.com/webstore/search/ublacklist "uBlacklist") extension.
 <br><br><br>
 #### TODO<br>
-- [custom raspbian image](https://medium.com/platformer-blog/creating-a-custom-raspbian-os-image-for-production-3fcb43ff3630)
+
 -[https://devhints.io/bash](Bash Scripts Cheatsheet)
