@@ -7,6 +7,7 @@ Random selection of things I found useful
 3. [Raspotify](https://github.com/gntouts/toolkit/blob/master/README.md#raspotify)<br>
 4. [Headless AnyDesk Install](https://github.com/gntouts/toolkit/blob/master/README.md#headless-anydesk)
 5. [Disable specific website in Chromium](https://github.com/gntouts/toolkit/blob/master/README.md#disable-website)
+6. [Disable laptop keyboard](https://blog.hostonnet.com/laptop-keyboard-ubuntu)
 
 ## rpiLocaleFix.sh
 
