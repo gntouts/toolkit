@@ -119,7 +119,7 @@ We all hate a site or two. We hate finding it in our Google search results, we h
 <br><br><br>
 
 ###### [Go to Index](https://github.com/gntouts/toolkit/blob/master/README.md#index)
-
+https://ycsoftware.net/temporary-failure-in-name-resolution-ubuntu-18-04-1-lts/
 #### TODO<br>
 
 -[https://devhints.io/bash](Bash Scripts Cheatsheet)
