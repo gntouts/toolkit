@@ -178,6 +178,8 @@ Deactivate given environment:
 ##### Remove a package from the active environment:
 
 `conda remove packageName`
+<br>
+### [View Conda Cheatsheet in separate file](https://github.com/gntouts/toolkit/blob/master/condaCheatsheet.md)
 
 
 ###### [Go to Index](https://github.com/gntouts/toolkit/blob/master/README.md#index)
