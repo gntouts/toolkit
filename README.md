@@ -123,6 +123,7 @@ We all hate a site or two. We hate finding it in our Google search results, we h
 
 
 ## Conda Cheatsheet
+###### [Or view Conda Cheatsheet in separate file](https://github.com/gntouts/toolkit/blob/master/condaCheatsheet.md)
 ### Basic Conda 
 ##### Start conda:
 `conda init`
@@ -179,7 +180,7 @@ Deactivate given environment:
 
 `conda remove packageName`
 <br>
-### [View Conda Cheatsheet in separate file](https://github.com/gntouts/toolkit/blob/master/condaCheatsheet.md)
+<br><br>
 
 
 ###### [Go to Index](https://github.com/gntouts/toolkit/blob/master/README.md#index)
