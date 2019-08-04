@@ -8,7 +8,8 @@ Random selection of things I found useful
 4. [Headless AnyDesk Install](https://github.com/gntouts/toolkit/blob/master/README.md#headless-anydesk)
 5. [Disable specific website in Chromium](https://github.com/gntouts/toolkit/blob/master/README.md#disable-website)
 6. [Disable laptop keyboard](https://blog.hostonnet.com/laptop-keyboard-ubuntu)
-7. PostgresSQL [1](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04) [2](https://opensource.com/article/17/10/set-postgres-database-your-raspberry-pi)
+7. [Conda Cheatsheet](https://github.com/gntouts/toolkit/blob/master/condaCheatSheet.md)
+8. PostgresSQL [1](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04) [2](https://opensource.com/article/17/10/set-postgres-database-your-raspberry-pi)
 
 ## rpiLocaleFix.sh
 
