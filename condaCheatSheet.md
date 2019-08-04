@@ -4,18 +4,17 @@
 Start conda
 <br>`conda init`<br><br>
 Create new environment with given Python version
-```
-conda create -n environmentName python=3.6
-```
+<br>`conda create -n environmentName python=3.6`
+<br><br>
 Activate given environment
-```
-conda activate environmentName
-```
+<br>
+`conda activate environmentName`
+<br><br>
 Deactivate given environment
-```
-conda deactivate
-```
+<br>
+`conda deactivate`
+<br><br>
 List all Conda environments
-```
-conda env list
-```
+<br>
+`conda env list`
+<br><br>
