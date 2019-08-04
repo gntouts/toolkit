@@ -1,5 +1,4 @@
 ## Conda Cheatsheet
-+ ###### [Or view Conda Cheatsheet in separate file](https://github.com/gntouts/toolkit/blob/master/condaCheatsheet.md)
 ### Basic Conda 
 + ##### Start conda:
 `conda init`
