@@ -27,3 +27,31 @@ Remove an environment:<br>
 `conda env remove --name environmentName`
 <br><br>
 ## Packages
+List all packages and versions in active environment:
+<br>
+`conda list`
+<br><br>
+Search a package to check if it is possible to install:
+<br>
+`conda search packageName`
+<br><br>
+Install a package in a given environment:
+<br>
+`conda install -n environmentName packageName`
+<br><br>
+Install a package in the active environment:
+<br>
+`conda install packageName`
+<br><br>
+Update a package in the active environment:
+<br>
+`conda update packageName`
+<br><br>
+Remove a package from a give environment:
+<br>
+`conda remove --name environmentName packageName`
+<br><br>
+Remove a package from the active environment:
+<br>
+`conda remove packageName`
+<br><br>
