@@ -1,23 +1,21 @@
 # Conda Cheatsheet
-### Basic commands
+### Environments
 
-+ Start conda
-```
-conda init
-```
-+ Create new environment with given Python version
+Start conda
+<br>`conda init`<br><br>
+Create new environment with given Python version
 ```
 conda create -n environmentName python=3.6
 ```
-+ Activate given environment
+Activate given environment
 ```
 conda activate environmentName
 ```
-+ Deactivate given environment
+Deactivate given environment
 ```
 conda deactivate
 ```
-+ List all Conda environments
+List all Conda environments
 ```
 conda env list
 ```
