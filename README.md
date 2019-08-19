@@ -190,3 +190,4 @@ https://ycsoftware.net/temporary-failure-in-name-resolution-ubuntu-18-04-1-lts/
 
 -[https://devhints.io/bash](Bash Scripts Cheatsheet)
 ###### [Go to Index](https://github.com/gntouts/toolkit/blob/master/README.md#index)
+https://discourse.osmc.tv/t/how-to-all-platforms-can-i-use-netflix-on-osmc-post-4/54741/4
